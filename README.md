@@ -8,6 +8,8 @@
 
 - 🏫 I'm a Electronics and Communication (ECE) Undergraduate(2020-2024)
 
+
+
 - 🧍‍♂️ I'm currently an active member at [amFOSS](http://www.amfoss.in)
 
 - 💻 I'm currently exploring deep learning(computer vision) and ML  
@@ -19,7 +21,7 @@
 
 * Working on different datasets on kaggle and problem solving from codeforces 
 
-* Working on Earthquake induced landslides, trying to make a machine learning model, which predicts realtime induced landslides.
+* 🔭 Currently  Working on Earthquake induced landslides, trying to make a machine learning model, which predicts realtime induced landslides.
 
 
 <br>
