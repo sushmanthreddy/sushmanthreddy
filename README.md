@@ -10,23 +10,31 @@
 
 - 🧍‍♂️ I'm currently an active member at [amFOSS](http://www.amfoss.in)
 
-- 💻 I'm currently exploring deep learning 
-
-- 💬 Ask me about : <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AISO_C%252B%252B_Logo.svg&psig=AOvVaw24fDsHN4Lw6Z4utzpoq2HK&ust=1664905577570000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCXzt3OxPoCFQAAAAAdAAAAABAE" alt="java" width="15" height="15" /> Java, 🐍Python, Flutter, 🎨Designing, 🎸Acoustic guitar, 💻computers😅
+- 💻 I'm currently exploring deep learning(computer vision) and ML  
 
 - 🗣 Pronouns: He/His/Him
 
-- 😁 Fun fact :  I had built a voice assistant which helps me in doing some small tasks and it supports only for windows, but I use windows rarely. 
-<!--
-<code><img height="20" src="https://avatars0.githubusercontent.com/u/21003710?s=200&v=4"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/37d9964b95f38c96ed2cce75182f7ebda4b90f64/68747470733a2f2f676863646e2e7261776769742e6f72672f6e756d70792f6e756d70792f6d61737465722f6272616e64696e672f69636f6e732f7072696d6172792f6e756d70796c6f676f2e737667"></code>
-<code><img height="20" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/5cb734f6fc37f645dc900e35559c60d91cc6b550/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667"></code>
-<code><img height="20" src="https://avatars3.githubusercontent.com/u/288277?s=200&v=4"></code>
--->
 
 I spend more time with problem solving and started learning about deep neural networks. :space_invader:
 
 * Working on different dataset on kaggle and problem solving from codeforces 
 * Working Earthquake induced landslides,trying to  make machine learning model ,which predicts realtime induced landslides .
-* 
+
+
+<br>
+
+<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+
+
+<img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" /> <img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> 
+
+<img alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="django-rest" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" /> <img alt="graphql" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+
+
+
+
+
+
+<p align="center"><a href="https://s0mnaths.github.io/"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+
