@@ -3,6 +3,7 @@
 </div>
 
 [![twitter](https://img.shields.io/twitter/url?label=Twitter%20%40Sushmanth__&style=social&url=https%3A%2F%2Ftwitter.com%2FSushmanth__)](https://twitter.com/Sushmanth__)
+[![linkedin badge](https://img.shields.io/badge/linkedin-sushmanth-reddy-mereddy-0077b5?style=social&logo=linkedin)](https://in.linkedin.com/in/sushmanth-reddy-mereddy-b942811b1)
 
 <!--
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/21003710?s=200&v=4"></code>
