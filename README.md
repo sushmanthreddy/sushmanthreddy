@@ -1,4 +1,6 @@
-## Hi, I'm Sushmanth Reddy
+<div align="left">
+  <h1>Hello coders, I'm Sushmanth! 👋 </h1>
+</div>
 
 [![twitter](https://img.shields.io/twitter/url?label=Twitter%20%40Sushmanth__&style=social&url=https%3A%2F%2Ftwitter.com%2FSushmanth__)](https://twitter.com/Sushmanth__)
 
