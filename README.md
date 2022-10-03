@@ -1,7 +1,7 @@
 ### Hi there 👋
-##  I'm SUSHMANTH REDDY
+##  I'm    SUSHMANTH REDDY
 
-[![twitter](https://img.shields.io/twitter/url?label=Twitter%20%40mayukh091&style=social&url=https%3A%2F%2Ftwitter.com%2FSushmanth__)](https://twitter.com/Sushmanth__)
+[![twitter](https://img.shields.io/twitter/url?label=Twitter%20%40Sushmanth__&style=social&url=https%3A%2F%2Ftwitter.com%2FSushmanth__)](https://twitter.com/Sushmanth__)
 
 <!--
 **sushmanthreddy/sushmanthreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
