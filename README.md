@@ -10,4 +10,4 @@
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/288277?s=200&v=4"></code>
 -->
 
-I spend more time with tensors than I do with my friends. :space_invader:
+I spend more time with problem solving and started learning about deep neural networks. :space_invader:
