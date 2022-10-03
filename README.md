@@ -15,7 +15,7 @@
 - 🗣 Pronouns: He/His/Him
 
 
-I spend more time with problem solving and started learning about deep neural networks. :space_invader:
+* Deep neural networks are something I've been learning more about as I spend more time solving problems. :space_invader:
 
 * Working on different dataset on kaggle and problem solving from codeforces 
 * Working Earthquake induced landslides,trying to  make machine learning model ,which predicts realtime induced landslides .
