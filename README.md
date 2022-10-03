@@ -3,8 +3,20 @@
 </div>
 
 [![twitter](https://img.shields.io/twitter/url?label=Twitter%20%40Sushmanth__&style=social&url=https%3A%2F%2Ftwitter.com%2FSushmanth__)](https://twitter.com/Sushmanth__)
-[![linkedin badge](https://img.shields.io/badge/linkedin-sushmanth-reddy-mereddy-0077b5?style=social&logo=linkedin)](https://in.linkedin.com/in/sushmanth-reddy-mereddy-b942811b1)
 
+## About Me😇
+
+- 🏫 I'm a Electronics and Communication (ECE) Undergraduate(2020-2024)
+
+- 🧍‍♂️ I'm currently an active member at [amFOSS](http://www.amfoss.in)
+
+- 💻 I'm currently exploring deep learning 
+
+- 💬 Ask me about : <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AISO_C%252B%252B_Logo.svg&psig=AOvVaw24fDsHN4Lw6Z4utzpoq2HK&ust=1664905577570000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCXzt3OxPoCFQAAAAAdAAAAABAE" alt="java" width="15" height="15" /> Java, 🐍Python, Flutter, 🎨Designing, 🎸Acoustic guitar, 💻computers😅
+
+- 🗣 Pronouns: He/His/Him
+
+- 😁 Fun fact :  I had built a voice assistant which helps me in doing some small tasks and it supports only for windows, but I use windows rarely. 
 <!--
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/21003710?s=200&v=4"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/37d9964b95f38c96ed2cce75182f7ebda4b90f64/68747470733a2f2f676863646e2e7261776769742e6f72672f6e756d70792f6e756d70792f6d61737465722f6272616e64696e672f69636f6e732f7072696d6172792f6e756d70796c6f676f2e737667"></code>
