@@ -15,10 +15,11 @@
 - 🗣 Pronouns: He/His/Him
 
 
-* Deep neural networks are something I've been learning more about as I spend more time solving problems. :space_invader:
+* Trying to learn about neural networks and transformers . :space_invader:
 
-* Working on different dataset on kaggle and problem solving from codeforces 
-* Working Earthquake induced landslides,trying to  make machine learning model ,which predicts realtime induced landslides .
+* Working on different datasets on kaggle and problem solving from codeforces 
+
+* Working on Earthquake induced landslides, trying to make a machine learning model, which predicts realtime induced landslides.
 
 
 <br>
