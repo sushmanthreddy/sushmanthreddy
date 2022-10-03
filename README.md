@@ -11,3 +11,6 @@
 -->
 
 I spend more time with problem solving and started learning about deep neural networks. :space_invader:
+
+* Working on different dataset on kaggle and problem solving from codeforces 
+* 
