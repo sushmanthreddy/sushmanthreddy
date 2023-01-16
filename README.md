@@ -10,7 +10,7 @@
 
 
 
-- 🧍‍♂️ I'm currently an active member at [amFOSS](http://www.amfoss.in)
+
 
 - 💻 I'm currently exploring deep learning(computer vision) and ML  
 
